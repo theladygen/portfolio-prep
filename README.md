@@ -7,6 +7,7 @@ This portfolio showcases software developer Genevieve DuPuy.
 ## Build Log
 
 8/22/23 initial commit, uploaded pics, bio, basic site structure
+8/26/23 added links between pages, some HTML, copyright, converted photos to jpeg
 
 ## Tech/Framework Used
 
